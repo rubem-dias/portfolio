@@ -105,7 +105,7 @@ module.exports = {
     gitlab: "https://gitlab.com/rubem-dias"
   },
   siteUrl: 'http://rubemdias.com/',
-  pathPrefix: '/rubem.dias', // Note: it must *not* have a trailing slash.
+  pathPrefix: '/portfolio', // Note: it must *not* have a trailing slash.
   siteCover: '/images/cover.jpg',
   googleAnalyticsId: 'UA-000000000-1',
   background_color: '#ffffff',
