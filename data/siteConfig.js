@@ -106,7 +106,7 @@ module.exports = {
   },
   siteUrl: 'http://rubemdias.com/',
   pathPrefix: '/rubem.dias', // Note: it must *not* have a trailing slash.
-  siteCover: '/images/cover.avif',
+  siteCover: '/images/cover.jpg',
   googleAnalyticsId: 'UA-000000000-1',
   background_color: '#ffffff',
   theme_color: '#25303B',
