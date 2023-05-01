@@ -216,7 +216,3 @@ Update the configuration file with your data. The configuration file is in ```da
   }
 
 ```
-
-## It was useful?
-
-<a href="https://www.buymeacoffee.com/santosfrancisco" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-blue.png" alt="Buy Me A Coffee" width="180px" ></a>
