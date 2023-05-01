@@ -96,10 +96,9 @@ Update the configuration file with your data. The configuration file is in ```da
   module.exports = {
     siteTitle: 'Hi! I\'m Francisco!',
     siteDescription: `Create your online curriculum in just a few minutes with this starter`,
-    keyWords: ['gatsbyjs', 'react', 'curriculum'],
-    authorName: 'Francisco Santos',
-    twitterUsername: '_franciscodf',
-    githubUsername: 'santosfrancisco',
+    keyWords: ['rubem', 'react', 'curriculum'],
+    authorName: 'Rubem Dias',
+    githubUsername: 'rubem-dias',
     authorAvatar: '/images/avatar.jpeg',
     authorDescription: `Developer, passionate about what I do. Always interested in how the sites were made, I started to study HTML by hobby. <br />
       In 2012 I started working as a support technician and I approached the developers.
