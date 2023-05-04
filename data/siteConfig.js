@@ -106,7 +106,7 @@ module.exports = {
   },
   siteUrl: 'http://rubemdias.com/',
   pathPrefix: '/portfolio', // Note: it must *not* have a trailing slash.
-  siteCover: '/images/cover.jpg',
+  siteCover: '/images/404.jpeg',
   googleAnalyticsId: 'UA-000000000-1',
   background_color: '#ffffff',
   theme_color: '#25303B',
