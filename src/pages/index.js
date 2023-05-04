@@ -39,7 +39,7 @@ const Home = ({ className, location }) => {
       />
 
       <Hero
-        heroImg={withPrefix('/images/cover.png')}
+        heroImg={withPrefix('/images/cover.jpg')}
         title={title}
       />
 

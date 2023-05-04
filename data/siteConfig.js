@@ -28,6 +28,10 @@ module.exports = {
       level: 50
     },
     {
+      name: 'NoSQL',
+      level: 40
+    },
+    {
       name: '.NET',
       level: 35
     }, 
