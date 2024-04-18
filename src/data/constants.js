@@ -88,7 +88,7 @@ export const experiences = [
       "MySQL",
       "SQL Server",
       "OracleDB",
-      "PostegreSQL"
+      "PostgreSQL"
     ],
     doc: "",
   },
@@ -115,7 +115,7 @@ export const experiences = [
     date: "Jan 2023 - Sep 2023",
     desc: "Developing application based on actions from facial recognition in different contexts",
     skills: [
-      "PostegreSQL",
+      "PostgreSQL",
       "C#",
       "Entity Framework",
       ".NET",
